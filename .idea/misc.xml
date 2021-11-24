@@ -23,6 +23,13 @@
         <entry key="..\:/Users/antfs/AndroidStudioProjects/B07FinalProject/app/src/main/res/layout/activity_shop.xml" value="0.371875" />
         <entry key="..\:/Users/antfs/AndroidStudioProjects/B07FinalProject/app/src/main/res/layout/fragment_navigation.xml" value="0.5" />
         <entry key="..\:/Users/antfs/AndroidStudioProjects/B07FinalProject/app/src/main/res/layout/nav_tab_fragment.xml" value="0.67" />
+        <entry key="app/src/main/res/font/noto_sans.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/layout/activity_account.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_my_store.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_shop.xml" value="0.10218863396513597" />
       </map>
     </option>
   </component>
@@ -31,12 +38,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="VisualizationToolProject">
-    <option name="state">
-      <ProjectState>
-        <option name="scale" value="0.33" />
-      </ProjectState>
-    </option>
   </component>
 </project>
